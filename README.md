@@ -14,7 +14,7 @@ Projects
 
 |---|---|---|
 
-| 01 | K-Means Clustering | In progress |
+| 01 | K-Means Clustering | Completed |
 
 | 02 | Hierarchical Clustering | Planned |
 
