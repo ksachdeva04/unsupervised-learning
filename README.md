@@ -1,4 +1,4 @@
-\ Unsupervised Learning
+Unsupervised Learning
 
 
 
@@ -6,7 +6,7 @@ A collection of hands-on machine learning projects implementing unsupervised lea
 
 
 
-\ Projects
+Projects
 
 
 
@@ -26,7 +26,7 @@ A collection of hands-on machine learning projects implementing unsupervised lea
 
 
 
-\ Technologies
+Technologies
 
 
 
@@ -42,7 +42,7 @@ A collection of hands-on machine learning projects implementing unsupervised lea
 
 
 
-\ Goal
+Goal
 
 
 
