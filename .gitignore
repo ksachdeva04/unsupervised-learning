@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Editor settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
